@@ -1,5 +1,4 @@
 ![robotpy](http://i.gyazo.com/1ce5c56109264731de46bdc127989592.png)
-![powered by robotpy](http://i.gyazo.com/531147903dbcc85b74667b738c96c400.png)
 
 [tl;dr](https://tldrlegal.com/license/mit-license)
 
